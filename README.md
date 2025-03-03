@@ -1,4 +1,2 @@
-# github-starting
-Starting with GitHub and IntelliJ
-
-Folosind IntelliJ, descarcati acest proiect pe calculatorul personal, adaugati o clasa  Java care tipareste un mesaj la consola si actualizati fisierele din repository-ul corespunzator.
+javamodule = tema din timpul laboratorului 1
+StartGradle = tema din timpul laboratorului 2
